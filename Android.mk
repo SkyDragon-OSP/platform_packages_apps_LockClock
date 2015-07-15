@@ -23,5 +23,4 @@ LOCAL_SDK_VERSION := 21
 LOCAL_PACKAGE_NAME := LockClock
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 LOCAL_AAPT_INCLUDE_ALL_RESOURCES := true
- Services is available
 include $(BUILD_PACKAGE)
